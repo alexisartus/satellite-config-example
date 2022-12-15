@@ -8,7 +8,7 @@ metadata:
     razee/watch-resource: lite
 spec:
   selector:
-    app: helloworld-app
+    app: helloworld-app-V2
   ports:
     - port: 8080
       targetPort: 8080
